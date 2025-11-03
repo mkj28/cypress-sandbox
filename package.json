@@ -1,7 +1,7 @@
 {
   "devDependencies": {
     "cross-env": "^7.0.3",
-    "cypress": "^10.9.0"
+    "cypress": "^14.5.2"
   },
   "scripts": {
     "cy:open": "cross-env CYPRESS_REMOTE_DEBUGGING_PORT=9222 cypress open"
